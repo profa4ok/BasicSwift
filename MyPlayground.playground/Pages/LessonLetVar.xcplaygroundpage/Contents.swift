@@ -7,3 +7,5 @@ let num = 10
 
 name = "Alla"
 print("\(name) \(num)")
+// MARK: Test
+
