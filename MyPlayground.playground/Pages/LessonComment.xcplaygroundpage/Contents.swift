@@ -2,6 +2,12 @@
 
 import Foundation
 
-var greeting = "Hello, playground"
+var greeting = "Lesson Comment"
 
-//: [Next](@next)
+// comment
+/* comment row
+ row
+ row */
+
+// MARK: Lesson Comment
+// FIX: Lesson
